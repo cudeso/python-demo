@@ -1,5 +1,5 @@
 import requests
-import sys
 
 
+print("test")
 sys.exit(0)
